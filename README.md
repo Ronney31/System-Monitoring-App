@@ -1,7 +1,7 @@
 # System-Monitoring-App
 
-![alt text](https://github.com/Ronney31/System-Monitoring-App/blob/master/Data/IMG_20181224_123551195.jpg "Tile")
+![alt text](https://github.com/Ronney31/System-Monitoring-App/blob/master/pics/2018-12-24-125046_1024x768_scrot.png "Tile")
 
 #Screenshot
 
-![Screenshot](https://github.com/Ronney31/System-Monitoring-App/blob/master/Data/IMG_20181224_123551195.jpg)
+![Screenshot](https://github.com/Ronney31/System-Monitoring-App/blob/master/pics/2018-12-24-125545_1024x768_scrot.png)
